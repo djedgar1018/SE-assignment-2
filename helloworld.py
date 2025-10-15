@@ -1,2 +1,2 @@
-print("Bye Dj")
+print("random")
 
