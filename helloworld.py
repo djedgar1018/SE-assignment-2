@@ -1,2 +1,1 @@
-print Hi Dj
-
+print("Hi Dj")
